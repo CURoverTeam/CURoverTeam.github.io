@@ -1,22 +1,30 @@
-/* Increase the font size of the heading */
+
+/* CU ROVER TEAM TITLE */
 h1 {
+    font-size: 70px;
+    font-family:"Helvetica";
+}
+
+/* TOP PAGE HEADERS */
+h2 {
     font-size: 60px;
-  } 
+    font-family:"Helvetica";
+} 
 
 .header {
     padding: 50px;
     text-align: center;
     background: #fba80e;
     color: white;
+    font-family:"Helvetica";
 }
 
 /* Style the top navigation bar */
 .navbar {
     overflow: hidden;
     background-color: #333;
-  }
-
-
+    font-family:"Helvetica";
+}
 
 /* Style the navigation bar links */
 .navbar a {
@@ -24,19 +32,22 @@ h1 {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 20px;
+  padding: 12px 20px;
   text-decoration: none;
+  font-family:"Helvetica";
 }
 
 /* Right-aligned link */
 .navbar a.right {
   float: right;
+  font-family:"Helvetica";
 }
 
-/* Change color on hover */
+/* COLOR WHEN HOVERING */
 .navbar a:hover {
   background-color: #ddd;
   color: black;
+  font-family:"Helvetica";
 }
 
 /* Column container */
@@ -45,6 +56,7 @@ h1 {
   display: flex;
   -ms-flex-wrap: wrap; /* IE10 */
   flex-wrap: wrap;
+  font-family:"Helvetica";
 }
 
 /* Main column */
@@ -53,13 +65,7 @@ h1 {
   flex: 70%;
   background-color: white;
   padding: 20px;
-}
-
-/* Fake image, just for this example */
-.fakeimg {
-  background-color: #aaa;
-  width: 100%;
-  padding: 20px;
+  font-family:"Helvetica";
 }
 
 /* Footer */
@@ -67,30 +73,34 @@ h1 {
   padding: 20px;
   text-align: center;
   background: #ddd;
+  font-family:"Helvetica";
 }
 
 
 /* Style the body */
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family:"Helvetica";
   margin: 0;
   font-size: 20px;
 }
   
 .centertext{
     text-align: center;
+    font-family:"Helvetica";
 }
 .centerimage{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }
+    font-family:"Helvetica";
+}
 
 /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 700px) {
   .row {   
     flex-direction: column;
+    font-family:"Helvetica";
   }
 }
 
@@ -99,5 +109,17 @@ body {
   .navbar a {
     float: none;
     width: 100%;
+    font-family:"Helvetica";
   }
+}
+
+.row {
+  display: flex;
+  font-family:"Helvetica";
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+  font-family:"Helvetica";
 }
