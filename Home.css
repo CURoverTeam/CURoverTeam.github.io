@@ -127,12 +127,21 @@
   }
 
   .u-section-1-1 .u-sheet-1 {
-    min-height: 412px;
+    min-height: 870px;
+  }
+
+  .u-section-1-1 .u-layout-cell-1 {
+    min-height: 398px;
   }
 
   .u-section-1-1 .u-container-layout-1 {
     padding-left: 30px;
     padding-right: 30px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    width: auto;
+    margin-top: 0;
   }
 
   .u-section-1-1 .u-image-1 {
