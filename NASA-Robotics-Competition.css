@@ -179,15 +179,21 @@
     right: calc(((100% - 340px) / 2)  + -190px);
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 85px;
+  min-height: 117px;
 }
 
 .u-section-2 .u-text-1 {
-  margin: 1px 0;
+  margin: 0 0 1px;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 766px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    margin-top: 60px;
   }
 }
