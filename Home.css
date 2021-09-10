@@ -190,14 +190,12 @@
   left: 0;
 }
 
-@media (max-width: 575px) {
-  .u-block-6412-4 {
-    position: absolute;
-    width: 65px;
-    height: 65px;
-    left: auto;
-    right: 0;
-  }
+.u-block-6412-4 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  left: auto;
+  right: 0;
 }.u-section-2 .u-sheet-1 {
   min-height: 271px;
 }
