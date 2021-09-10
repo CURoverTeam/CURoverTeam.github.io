@@ -9,7 +9,8 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-text-1 {
-    width: 340px;
+    width: auto;
+    margin: 22px 0;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 70px;
@@ -201,6 +202,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1465px;
+  }
+
   .u-section-3 .u-list-1 {
     width: 340px;
   }
