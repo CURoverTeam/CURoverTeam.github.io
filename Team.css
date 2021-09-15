@@ -423,6 +423,7 @@
 .u-section-2 .u-image-5 {
   height: 300px;
   width: 300px;
+  object-position: 50% 67%;
   margin: 0 auto;
 }
 
@@ -451,7 +452,6 @@
 .u-section-2 .u-image-7 {
   height: 300px;
   width: 300px;
-  object-position: 50% 67%;
   margin: 0 auto;
 }
 
