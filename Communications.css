@@ -206,7 +206,7 @@
 }
 
 .u-section-4 .u-text-4 {
-  margin: 0 31px;
+  margin: 0 45px 0 31px;
 }
 
 .u-section-4 .u-text-5 {
@@ -239,7 +239,7 @@
 }
 
 .u-section-4 .u-text-8 {
-  margin: 0 31px;
+  margin: 0 137px 0 31px;
 }
 
 .u-section-4 .u-text-9 {
@@ -276,6 +276,10 @@
     min-height: 294px;
   }
 
+  .u-section-4 .u-text-4 {
+    margin-right: 31px;
+  }
+
   .u-section-4 .u-text-5 {
     margin-left: 5px;
     margin-right: 5px;
@@ -292,6 +296,10 @@
 
   .u-section-4 .u-layout-cell-5 {
     min-height: 313px;
+  }
+
+  .u-section-4 .u-text-8 {
+    margin-right: 31px;
   }
 }
 
