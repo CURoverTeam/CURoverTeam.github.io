@@ -1,4 +1,4 @@
-.u-section-1 {
+ .u-section-1 {
   min-height: 233px;
 }
 
@@ -94,7 +94,7 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 {
+   .u-section-1 {
     min-height: 66px;
   }
 
