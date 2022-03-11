@@ -25,16 +25,15 @@
     margin-right: 0;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 591px;
+  min-height: 621px;
 }
 
 .u-section-3 .u-text-1 {
-  width: 124px;
+  width: 204px;
   margin: 20px auto 0;
 }
 
 .u-section-3 .u-list-1 {
-  width: 1140px;
   grid-template-rows: auto;
   margin: 0 0 3px;
 }
@@ -102,7 +101,8 @@
 
 @media (max-width: 1199px) {
   .u-section-3 .u-list-1 {
-    width: 940px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-3 .u-repeater-1 {
@@ -130,10 +130,6 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-3 .u-list-1 {
-    width: 720px;
-  }
-
   .u-section-3 .u-repeater-1 {
     grid-template-columns: repeat(2, 50%);
     min-height: 710px;
@@ -159,10 +155,6 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-3 .u-list-1 {
-    width: 540px;
-  }
-
   .u-section-3 .u-repeater-1 {
     grid-template-columns: 100%;
   }
@@ -204,10 +196,6 @@
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
     min-height: 1465px;
-  }
-
-  .u-section-3 .u-list-1 {
-    width: 340px;
   }
 
   .u-section-3 .u-image-1 {
@@ -291,7 +279,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 603px;
-  background-image: url("images/flatirons-49.JPG");
+  background-image: url("images/flatirons-48.JPG");
   background-position: 50% 50%;
 }
 
