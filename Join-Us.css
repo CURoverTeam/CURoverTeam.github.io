@@ -59,13 +59,14 @@
 
 .u-section-1 .u-btn-5 {
   background-image: none;
+  margin-top: 0;
   padding: 0;
 }
 
-.u-section-1 .u-btn-6 {
-  background-image: none;
-  margin-top: 0;
-  padding: 0;
+.u-section-1 .u-text-5 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
 }
 
 .u-section-1 .u-image-1 {
